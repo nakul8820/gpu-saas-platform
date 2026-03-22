@@ -1,0 +1,4 @@
+requests
+docker
+psutil
+python-dotenv
